@@ -15,5 +15,8 @@
   - 2. MacOS 🍏
   - 3. Windows 🏢
   - 4. ROS 🤖
+- 6. Contact Info:
+  - 1. Email: yoon.ohbot@gmail.com
+  - 2. Instagram: @yoon_bot
 
   
