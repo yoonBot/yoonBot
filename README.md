@@ -31,5 +31,6 @@
 
 1. :envelope: : yoon.ohbot@gmail.com
 2. [![Instagram][1.2]][1]
+3. :notes: Discord: yoonBot#6641
 
 [1]: https://instagram.com/yoon_bot
