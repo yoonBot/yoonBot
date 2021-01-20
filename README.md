@@ -3,3 +3,4 @@
 [![yoonBot's github stats](https://github-readme-stats.vercel.app/api?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
 [![yoonBot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yoonBot&show_icons=true&theme=radical)](https://github.com/yoonBot/github-readme-stats)
+![](https://img.shields.io/badge/<WORD_ONLEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
