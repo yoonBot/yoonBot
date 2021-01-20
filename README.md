@@ -1,3 +1,3 @@
 ### <center> About yoonBot
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<yoonBot>&theme=<THEME_NAME>" />
+[![yoonBot's github stats](https://github-readme-stats.vercel.app/api?username=yoonBot)](https://github.com/yoonBot/github-readme-stats)
