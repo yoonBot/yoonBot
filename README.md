@@ -16,6 +16,13 @@
 
 ### :earth_asia: About Me:
 
-1. Name: Jason Oh
+1. Name: Jason Oh :boy:
 2. Major: Computer Science & Engineering :computer:
 3. Hobbies: :pencil2:, :tennis:, :violin:, :black_joker:
+
+### :santa: You can contact me at:
+
+1. :mail: : yoon.ohbot@gmail.com
+2. [![Instagram][1.2]][1]
+
+[1]: https://instagram.com/yoon_bot
