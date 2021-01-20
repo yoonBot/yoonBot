@@ -2,6 +2,8 @@
 
 ![IMG_4736](https://user-images.githubusercontent.com/73013239/105243549-8d6d7800-5bb2-11eb-998b-fa87ab2c30cc.GIF)
 
+### **`Status >`** :seedling:
+
 [![yoonBot's github stats](https://github-readme-stats.vercel.app/api?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
 
