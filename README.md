@@ -30,7 +30,7 @@
 ### :santa: You can contact me at:
 
 1. [![Gmail Badge](https://img.shields.io/badge/-yoon.ohbot@gmail.com-red?style=flat-square&labelColor=red&logo=Gmail&logoColor=white&link=,ailto:yoon.ohbot@gmail.com)](mailto:yoon.ohbot@gmail.com)
-2. [![Instagram Badge](https://img.shields.io/badge/-@yoon_bot-1ca0f1?style=flat-square&labelColor=ff1493&logo=instagram&logoColor=white&link=https://instagram.com/yoon_bot)](https://instagram.com/yoon_bot)
+2. [![Instagram Badge](https://img.shields.io/badge/-@yoon_bot-ff1493?style=flat-square&labelColor=ff1493&logo=instagram&logoColor=white&link=https://instagram.com/yoon_bot)](https://instagram.com/yoon_bot)
 3. :notes: Discord: yoonBot#6641
 
 [1]: https://instagram.com/yoon_bot
