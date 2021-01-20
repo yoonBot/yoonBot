@@ -5,4 +5,5 @@
 [![yoonBot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yoonBot&show_icons=true&theme=radical)](https://github.com/yoonBot/github-readme-stats)
 
 ### :wrench: Technologies & Tools Used
-![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
