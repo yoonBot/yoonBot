@@ -22,7 +22,7 @@
 
 ### :santa: You can contact me at:
 
-1. :mail: : yoon.ohbot@gmail.com
+1. :envelope: : yoon.ohbot@gmail.com
 2. [![Instagram][1.2]][1]
 
 [1]: https://instagram.com/yoon_bot
