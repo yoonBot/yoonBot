@@ -29,7 +29,7 @@
 
 ### :santa: You can contact me at:
 
-1. :envelope: : yoon.ohbot@gmail.com
+1. [![Gmail Badge](https://img.shields.io/badge/-yoon.ohbotWgmail.com-red?style=flat-square&labelColor=red&logo=Gmail&logoColor=white&link=,ailto:yoon.ohbot@gmail.com)](mailto:yoon.ohbot@gmail.com)
 2. [![Instagram][1.2]][1]
 3. :notes: Discord: yoonBot#6641
 
