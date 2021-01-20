@@ -13,3 +13,9 @@
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+### :earth_asia: About Me:
+
+1. Name: Jason Oh
+2. Major: Computer Science & Engineering :computer:
+3. Hobbies: :pencil2:, :tennis:, :violin:, :black_joker:
