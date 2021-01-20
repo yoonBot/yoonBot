@@ -3,7 +3,7 @@
 [![yoonBot's github stats](https://github-readme-stats.vercel.app/api?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
 
-## :pencil2: Class Notes
+## `Class Notes` 
 
 <a href="https://github.com/yoonBot/Computer-Science-and-Engineering">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=Computer-Science-and-Engineering" />
