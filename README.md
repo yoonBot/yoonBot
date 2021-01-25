@@ -2,7 +2,7 @@
 
 ![IMG_4736](https://user-images.githubusercontent.com/73013239/105243549-8d6d7800-5bb2-11eb-998b-fa87ab2c30cc.GIF)
 
-### Shortcuts :exclamation:
+## Shortcuts :exclamation:
 
 ##### **`Class Notes >`** :pencil2:
 
