@@ -2,7 +2,9 @@
 
 ![IMG_4736](https://user-images.githubusercontent.com/73013239/105243549-8d6d7800-5bb2-11eb-998b-fa87ab2c30cc.GIF)
 
-### **`Class Notes >`** :pencil2:
+### Shortcuts :exclamation:
+
+##### **`Class Notes >`** :pencil2:
 
 <a href="https://github.com/yoonBot/Computer-Science-and-Engineering">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=Computer-Science-and-Engineering" />
