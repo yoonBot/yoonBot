@@ -10,6 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=Computer-Science-and-Engineering" />
 </a>
 
+##### **`Personal Projects >`** :robot:
 <a href="https://github.com/yoonBot/discordBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=discordBot" />
 
