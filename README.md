@@ -10,6 +10,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=Computer-Science-and-Engineering" />
 </a>
 
+<a href="https://github.com/yoonBot/discordBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=discordBot" />
+
 ## Status :seedling:
 
 [![yoonBot's github stats](https://github-readme-stats.vercel.app/api?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
