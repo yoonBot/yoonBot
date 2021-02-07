@@ -4,7 +4,7 @@
 
 ## Shortcuts :exclamation:
 
-##### **`Class Notes >`** :pencil2:
+##### **`Class Notes And Tutorials >`** :pencil2:
 
 <a href="https://github.com/yoonBot/Computer-Science-and-Engineering">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=Computer-Science-and-Engineering" />
