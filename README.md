@@ -10,9 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=Computer-Science-and-Engineering" />
 </a>
 
-<a href="https://github.com/yoonBot/Introduction-to-ML">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=Introduction-to-ML">
-</a>
+
 
 ##### **`Personal Projects >`** :robot:
 <a href="https://github.com/yoonBot/discordBot">
