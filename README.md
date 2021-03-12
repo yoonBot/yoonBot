@@ -14,6 +14,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=Introduction-to-ML">
 </a>
 
+<a href="https://github.com/yoonBot/BOJ-Problems">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=BOJ-Problems">
+
 ##### **`Personal Projects >`** :robot:
 <a href="https://github.com/yoonBot/discordBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=discordBot" />
