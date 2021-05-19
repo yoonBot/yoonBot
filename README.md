@@ -38,10 +38,13 @@
 ## Status :seedling:
 
 ##### **`Problem Solving`** :brain:
-[Baekjoon Online Judge]
+
 [![Solved.ac 
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yoonbot)](https://solved.ac/yoonbot)
+[![Codeforces profile
+](http://mazassumnida.wtf/api/generate_badge?boj=yoonbot)](https://codeforces.com/profile/yoonBot)
 
+##### **`Github Stats`** 🛠️
 [![yoonBot's github stats](https://github-readme-stats.vercel.app/api?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
 
