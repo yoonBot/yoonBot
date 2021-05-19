@@ -37,6 +37,8 @@
 
 ## Status :seedling:
 
+##### **`Problem Solving`** :brain:
+[Baekjoon Online Judge]
 [![Solved.ac 
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yoonbot)](https://solved.ac/yoonbot)
 
