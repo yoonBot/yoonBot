@@ -42,7 +42,7 @@
 [![Solved.ac 
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yoonbot)](https://solved.ac/yoonbot)
 [![Codeforces profile
-](https://codeforces.com/profile/yoonBot)
+](https://run.kaist.ac.kr/badges/codeforces/jo_on.svg)(https://codeforces.com/profile/yoonBot)
 
 ##### **`Github Stats`** 🛠️
 [![yoonBot's github stats](https://github-readme-stats.vercel.app/api?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
