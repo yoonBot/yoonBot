@@ -35,6 +35,10 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=Unity-Projects">
 </a>
 
+<a href="https://github.com/yoonBot/Chess">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=Chess">
+</a> 
+ 
 ## Status :seedling:
 
 ##### **`Problem Solving`** :brain:
