@@ -44,7 +44,7 @@
 ##### **`Problem Solving`** :brain:
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonboy)](https://solved.ac/yoonbot)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonbot)](https://solved.ac/yoonbot)
 
 [![Codeforces Badge
 ](https://img.shields.io/badge/codeforces/yoonBot)(https://codeforces.com/profile/yoonBot)
