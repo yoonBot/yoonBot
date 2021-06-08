@@ -4,6 +4,17 @@
 
 ## Shortcuts :exclamation:
 
+## Status :seedling:
+
+##### **`Baekjoon Online Judge`** :brain:
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonbot)](https://solved.ac/yoonbot)
+
+##### **`Github Stats`** 🛠️
+[![yoonBot's github stats](https://github-readme-stats.vercel.app/api?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
+
 ##### **`Class Notes And Tutorials >`** :pencil2:
 
 <a href="https://github.com/yoonBot/Computer-Science-and-Engineering">
@@ -39,16 +50,6 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=Chess">
 </a> 
  
-## Status :seedling:
-
-##### **`Baekjoon Online Judge`** :brain:
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonbot)](https://solved.ac/yoonbot)
-
-##### **`Github Stats`** 🛠️
-[![yoonBot's github stats](https://github-readme-stats.vercel.app/api?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
 
 ## Technologies & Tools Used :wrench:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
