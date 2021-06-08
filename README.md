@@ -6,7 +6,7 @@
 
 ## Status :seedling:
 
-##### **`Baekjoon Online Judge`** :brain:
+##### **[`Baekjoon Online Judge`](https://www.acmicpc.net/user/yoonbot)** :brain:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonbot)](https://solved.ac/yoonbot)
