@@ -13,42 +13,6 @@
 [![yoonBot's github stats](https://github-readme-stats.vercel.app/api?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
 
-##### **`Class Notes And Tutorials >`** :pencil2:
-
-<a href="https://github.com/yoonBot/Computer-Science-and-Engineering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=Computer-Science-and-Engineering" />
-</a>
-
-<a href="https://github.com/yoonBot/Introduction-to-ML">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=Introduction-to-ML" />
-</a>
-
-<a href="https://github.com/yoonBot/BOJ-Problems">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=BOJ-Problems" />
-</a>
-
-<a href="https://github.com/yoonBot/White-Black-Hacking-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=White-Black-Hacking-" />
-</a>
-
-##### **`Personal Projects >`** :robot:
-<a href="https://github.com/yoonBot/discordBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=discordBot" />
-</a>
-
-<a href="https://github.com/yoonBot/J.A.S.O.N.">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=J.A.S.O.N." />
-</a>
-
-<a href="https://github.com/yoonBot/Unity-Projects">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=Unity-Projects">
-</a>
-
-<a href="https://github.com/yoonBot/Chess">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonBot&repo=Chess">
-</a> 
- 
-
 ## Technologies & Tools Used :wrench:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
