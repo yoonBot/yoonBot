@@ -29,8 +29,9 @@
 
 1. Name: Jason Oh :boy:
 2. Major: Computer Science & Engineering :computer:
-3. Hobbies: :pencil2:, :tennis:, :violin:, :black_joker:
-4. School ID: cse20192008
+3. Learning: Swift, React
+4. Hobbies: :pencil2:, :tennis:, :violin:, :black_joker:
+5. School ID: cse20192008
 
 ## You can contact me at : :santa: 
 
