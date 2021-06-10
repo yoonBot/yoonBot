@@ -6,7 +6,7 @@
 
 1. Name: Jason (Yoonseok) Oh :boy:
 2. Major: Computer Science & Engineering :computer:
-3. :seedling: Learning: Swift, React
+3. :seedling: Learning: Swift, React, ROS and Robotic Engineering
 4. Hobbies: :pencil2:, :tennis:, :violin:, :black_joker:
 5. School ID: cse20192008
 ## Status 
