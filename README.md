@@ -1,5 +1,5 @@
-# Hello, World :waxing_crescent_moon:
-![IMG_4736](https://user-images.githubusercontent.com/73013239/105243549-8d6d7800-5bb2-11eb-998b-fa87ab2c30cc.GIF)
+# 나는 문어, 꿈을 꾸는 문어 
+![IMG_4736](https://user-images.githubusercontent.com/73013239/122032312-7b62cf00-ce0a-11eb-9253-4c04bd2715cd.mov)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonbot8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## About Me: :earth_asia:
