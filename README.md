@@ -5,7 +5,7 @@
 
 ## About Me: :earth_asia:
 
-1. 👨🏻‍💻 Name: Jason (Yoonseok) Oh 
+1. 👨🏻‍💻 Name: Owen (Yoonseok) Oh 
 2. 🎓 Major: Computer Science & Engineering
 3. :seedling: Learning: Swift, React, ROS and Robotic Engineering
 4. 🎲 Hobbies: :pencil2:, :tennis:, :violin:, 🃏
