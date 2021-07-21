@@ -9,6 +9,8 @@
 3. :seedling: Learning: Swift, React, ROS and Robotic Engineering
 4. 🎲 Hobbies: :pencil2:, :tennis:, :violin:, 🃏
 
+![coding](https://user-images.githubusercontent.com/73013239/126539794-16ee5eb4-9984-46cd-92fd-ea5069191b7d.gif)
+
 ## Status 
 
 ##### **[`Baekjoon Online Judge`](https://www.acmicpc.net/user/yoonbot)** :brain:
