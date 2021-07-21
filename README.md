@@ -4,18 +4,15 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonbot8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
 ## About Me: :earth_asia:
 
 1. 👨🏻‍💻 Name: Owen (Yoonseok) Oh 
 2. 🎓 Major: Computer Science & Engineering
 3. :seedling: Learning: Swift, React, ROS and Robotic Engineering
-4. 🎲 Hobbies: :pencil2:, :tennis:, :violin:, 🃏
+4. 🦾 Currently Working On: Problem Solving
+5. 🎲 Hobbies: :pencil2:, :tennis:, :violin:, 🃏
 
-
-  
-
-## Status 
+## Tier
 
 ##### **[`Baekjoon Online Judge`](https://www.acmicpc.net/user/yoonbot)** :brain:
 
@@ -25,9 +22,6 @@
 ##### **`Github Stats`** 🛠️
 [![yoonBot's github stats](https://github-readme-stats.vercel.app/api?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
-
-##### **`Some Cool and Userful Repositories`**
-
 
 ## Technologies & Tools Used :wrench:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
