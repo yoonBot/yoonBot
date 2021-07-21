@@ -9,7 +9,8 @@
 3. :seedling: Learning: Swift, React, ROS and Robotic Engineering
 4. 🎲 Hobbies: :pencil2:, :tennis:, :violin:, 🃏
 
-![coding](https://user-images.githubusercontent.com/73013239/126539794-16ee5eb4-9984-46cd-92fd-ea5069191b7d.gif)
+<img align="right" alt="GIF" src="https://github.com/yoonbot/yoonbot/blob/master/coding.gif?raw=true" width="408" height="318" />
+  
 
 ## Status 
 
