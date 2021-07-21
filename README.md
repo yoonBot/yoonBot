@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonbot8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<img align="right" alt="GIF" src=https://github.com/yoonBot/yoonBot/blob/main/coding.gif width="408" height="318" />
+
 ## About Me: :earth_asia:
 
 1. 👨🏻‍💻 Name: Owen (Yoonseok) Oh 
@@ -9,7 +11,7 @@
 3. :seedling: Learning: Swift, React, ROS and Robotic Engineering
 4. 🎲 Hobbies: :pencil2:, :tennis:, :violin:, 🃏
 
-<img align="right" alt="GIF" src=https://github.com/yoonBot/yoonBot/blob/main/coding.gif width="408" height="318" />
+
   
 
 ## Status 
