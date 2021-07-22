@@ -22,6 +22,9 @@
 ##### **`Github Stats`** 🛠️
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 [![yoonBot's github stats](https://github-readme-stats.vercel.app/api?username=yoonBot&show_icons=true&theme=tokyonight)](https://github.com/yoonBot/github-readme-stats)
