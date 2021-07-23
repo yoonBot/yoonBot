@@ -21,7 +21,7 @@
 
 ##### **`Github Stats`** 🛠️
 
-** I'm a night person 🌙 **
+**I'm a night person 🌙**
 <!--START_SECTION:waka-->
 ```text
 VimL   6 mins          ████████████░░░░░░░░░░░░░   47.61 % 
