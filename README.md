@@ -8,8 +8,8 @@
 
 1. 👨🏻‍💻 Name: Owen (Yoonseok) Oh 
 2. 🎓 Major: Computer Science & Engineering
-3. :seedling: Learning: Swift, React, ROS and Robotic Engineering
-4. 🦾 Currently Working On: Problem Solving
+3. :seedling: Learning: Networking + Computer Security 
+4. 🦾 Currently Working On: Operating Systems
 5. 🎲 Hobbies: :pencil2:, :tennis:, :violin:, 🃏
 
 ## Tier
