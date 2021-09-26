@@ -18,7 +18,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonbot)](https://solved.ac/yoonbot)
-[![CodeForces Profile](https://cf.leed.at?id=Q._)](https://codeforces.com/profile/Q._)
+[![CodeForces Profile](https://cf.leed.at?id=yoonBot)](https://codeforces.com/profile/yoonBot)
 
 
 ##### **`Github Stats`** 🛠️
