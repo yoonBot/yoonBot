@@ -18,6 +18,8 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonbot)](https://solved.ac/yoonbot)
+[![CodeForces Profile](https://cf.leed.at?id=Q._)](https://codeforces.com/profile/Q._)
+
 
 ##### **`Github Stats`** 🛠️
 
