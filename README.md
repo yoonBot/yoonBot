@@ -6,7 +6,7 @@
 
 ## About Me: :earth_asia:
 
-1. 👨🏻‍💻 Name: Owen (Yoonseok) Oh 
+1. 👨🏻‍💻 Name: Yoonseok Oh 
 2. 🎓 Major: Computer Science & Engineering
 3. :seedling: Learning: Networking + Computer Security 
 4. 🦾 Currently Working On: Operating Systems
