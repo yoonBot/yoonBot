@@ -26,7 +26,7 @@
 **I'm a night person 🌙**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+VimL   6 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
