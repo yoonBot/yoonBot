@@ -16,10 +16,7 @@
 
 ##### **[`Baekjoon Online Judge`](https://www.acmicpc.net/user/yoonbot)** :brain:
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonbot)](https://solved.ac/yoonbot)
-[![CodeForces Profile](https://cf.leed.at?id=yoonBot)](https://codeforces.com/profile/yoonBot)
-
+[![Solved.ac 프로필](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=yoonBot)](https://solved.ac/profile/yoonBot)
 
 ##### **`Github Stats`** 🛠️
 
