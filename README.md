@@ -1,4 +1,4 @@
-# 🤪 A Pathetic Compsci Student at Sogang University<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# 🤪 Gotta Learn-Em All! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" alt="GIF" src=https://github.com/yoonBot/yoonBot/blob/main/coding.gif width="408" height="318" />
 
@@ -8,9 +8,8 @@
 
 1. 👨🏻‍💻 Name: Yoonseok Oh 
 2. 🎓 Major: Computer Science & Engineering
-3. :seedling: Learning: Networking + Computer Security 
-4. 🦾 Currently Working On: Operating Systems
-5. 🎲 Hobbies: :pencil2:, :tennis:, :violin:, 🃏
+3. :seedling: Current Interests: Scaling Large Language Models (LLMs) on cheaper GPUs
+4. 🎲 Hobbies: :pencil2:, :tennis:, :violin:, 🃏
 
 ## Tier
 
