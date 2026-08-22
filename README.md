@@ -18,21 +18,9 @@
 3. :seedling: Current Interests: Scaling Large Language Models (LLMs) on cheaper GPUs
 4. 🎲 Hobbies: :pencil2:, :tennis:, :violin:, 🃏
 
+## Owner of the repo: [Learning LLMS From Scratch](https://github.com/yoonBot/Learn-LLMs-From-Scratch)
 
-##### **`Github Stats`** 🛠️
-
-**I'm a night person 🌙**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoonBot&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonBot&exclude_rep=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
-                          
+              
 
 ## Technologies & Tools Used :wrench:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
