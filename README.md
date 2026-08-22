@@ -6,7 +6,9 @@
 
 <div align="center">
   
-# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# WELCOME TO YOONBOT's GITHUB REPOSITORY! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+**I am Looking for a PhD position in AI**. [GitHub](https://github.com/FareedKhan-dev)
 
 </div>
 
@@ -18,7 +20,7 @@
 3. :seedling: Current Interests: Scaling Large Language Models (LLMs) on cheaper GPUs
 4. 🎲 Hobbies: :pencil2:, :tennis:, :violin:, 🃏
 
-## Owner of the repo: [Learning LLMS From Scratch](https://github.com/yoonBot/Learn-LLMs-From-Scratch)
+# Owner of the repo: [Learning LLMS From Scratch](https://github.com/yoonBot/Learn-LLMs-From-Scratch)
 
               
 
