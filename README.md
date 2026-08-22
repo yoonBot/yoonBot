@@ -1,4 +1,6 @@
-![main image]<img align="center" alt="GIF" src=https://github.com/yoonBot/yoonBot/blob/main/coding.gif width="408" height="318" />
+
+
+<img align="center" alt="GIF" src=https://github.com/yoonBot/yoonBot/blob/main/coding.gif width="408" height="318" />
 
 <div align="center">
 # 🤪 Gotta Learn-Em All! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
