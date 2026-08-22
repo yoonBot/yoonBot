@@ -20,7 +20,7 @@
 3. :seedling: Current Interests: Scaling Large Language Models (LLMs) on cheaper GPUs
 4. 🎲 Hobbies: :pencil2:, :tennis:, :violin:, 🃏
 
-# Owner of the repo: [Learning LLMS From Scratch](https://github.com/yoonBot/Learn-LLMs-From-Scratch)
+##### Owner of the repo: [Learning LLMS From Scratch](https://github.com/yoonBot/Learn-LLMs-From-Scratch)
 
               
 
